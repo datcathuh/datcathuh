@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey👋 What's up?</h1>
 
 ###
 
@@ -47,6 +47,24 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://cdn.discordapp.com/attachments/1081646370903048285/1270046713041649765/33dd2685e161aa14e2d7a6d4d10e506d.png?ex=66b440ec&is=66b2ef6c&hm=10bc1780819e1ee25a990964328bc705b63f4a3e6e744467867354042692342e&"  />
+<div align="center">
+  <img height="200" src="https://i.imgur.com/FEY8ClM.gif"  />
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
