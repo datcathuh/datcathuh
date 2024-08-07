@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://cdn.discordapp.com/attachments/1222808637601349724/1267071001632440403/1d9c7f61931b5ead44fd5dfa4ae8bbc9.jpg?ex=66a77353&is=66a621d3&hm=f34c097a25609cf58f284845386c9022be287cec491048633d6232690e6cae70&](https://i.imgur.com/FEY8ClM.mp4)"  />
+  <img height="200" src="https://i.imgur.com/FEY8ClM.gif"  />
 </div>
 
 ###
