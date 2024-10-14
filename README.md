@@ -34,6 +34,8 @@
 
 <br clear="both">
 
+![Logo](https://bloodyhands.dev/33dd2685e161aa14e2d7a6d4d10e506d.png)
+
 <div align="center">
   <a href="@r3f3" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
