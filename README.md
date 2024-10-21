@@ -54,13 +54,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/datcathuh/count.svg?"  />
-</div>
+
 
 ###
 
-<div align="center">
-</div>
 
 ###
+[![Discord Presence](https://lanyard.cnrad.dev/api/689868715747180621)](https://discord.com/users/689868715747180621)
