@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://bloodyhands.dev/33dd2685e161aa14e2d7a6d4d10e506d.png"  />
+  [![Discord Presence](https://lanyard.cnrad.dev/api/208168562286788610)](https://discord.com/users/208168562286788610)
 </div>
 
 ###
