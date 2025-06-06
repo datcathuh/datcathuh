@@ -46,12 +46,6 @@
 <br clear="both">
 
 
-###
-
-<p align="left">im silly</p>
-
-###
-
 
 
 ###
